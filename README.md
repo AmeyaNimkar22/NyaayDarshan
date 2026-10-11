@@ -1,16 +1,53 @@
-# React + Vite
+# NyaayDarshan
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Explore the Indian Courtroom — An Interactive Learning Experience**
 
-Currently, two official plugins are available:
+NyaayDarshan is an interactive educational application that helps users understand the Indian courtroom system. Users can explore different courtroom roles, learn about their responsibilities, and test their knowledge through a quiz.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- **Interactive Courtroom:** Click different courtroom areas and people to explore their roles.
+- **Role-Based Information:** Learn about the duties and responsibilities of courtroom personnel.
+- **Bilingual Support:** Explore content in English and Hindi.
+- **Progress Tracking:** Track the courtroom elements you have explored.
+- **Knowledge Quiz:** Test your understanding with multiple-choice and True/False questions.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+- React.js
+- Vite
+- Tailwind CSS
+- JavaScript
+- Framer Motion
+- Lucide React
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/AmeyaNimkar22/NyaayDarshan.git
+cd NyaayDarshan
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the development server
+
+```bash
+npm run dev
+```
+
+Open the local URL shown in your terminal to use the application.
+
+## Purpose
+
+NyaayDarshan aims to make learning about the Indian courtroom system more accessible and engaging through interactive exploration and quizzes.
+
+---
+
+Developed as part of the **NyaayMitra** project.
